@@ -1,0 +1,58 @@
+{
+    "Apps": [],
+    "App Settings": [],
+    "Preferences": [
+        {
+            "name": "translate_site_blacklist",
+            "value": "[]"
+},
+        {
+            "name": "sharing.vapid_key",
+            "value": "{\"vapid_creation_timestamp\":\"13337471018674894\",\"vapid_private_key\":\"MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgbHbKNb2kbX75SDThTgPmmHqtV3yInA1vw5OgVBXxokKhRANCAAS06yxQkO+BMnP5T5R9MdQI38YKg3e1FBD9pl/El9jw9E0UdTxMvWLhRfEieweJgIj/AEcLAFdbDNuAW+BpzWF0\"}"
+},
+        {
+            "name": "track_prices_on_tabs.enabled",
+            "value": "false"
+},
+        {
+            "name": "intl.selected_languages",
+            "value": "\"en-US,en\""
+},
+        {
+            "name": "price_tracking.email_notifications_enabled",
+            "value": "true"
+},
+        {
+            "name": "ios.prerender.network_prediction_settings",
+            "value": "2"
+},
+        {
+            "name": "translate_site_blocklist_with_time",
+            "value": "{}"
+},
+        {
+            "name": "ios.ntp.supervised.content_suggestions_enabled",
+            "value": "true"
+}
+    ],
+    "Priority Preferences": [
+        {"preference": {
+            "name": "credentials_need_first_time_welcome",
+            "value": "false"
+}},
+        {"preference": {
+            "name": "credentials_enable_service",
+            "value": "true"
+}},
+        {"preference": {
+            "name": "profile.credentials_last_password_checkup_time",
+            "value": "\"13337735594805758\""
+}},
+        {"preference": {
+            "name": "credentials_enable_sync",
+            "value": "true"
+}}
+    ],
+    "Themes": [],
+    "Web Apps": []
+}
